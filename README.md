@@ -17,14 +17,20 @@
 
 ## 🎓 Educación
 
-- ![SENATI](https://img.shields.io/badge/SENATI-00BFFF?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAcCAIAAADnKzRfAAAAxElEQVRIDbWBAQEAAAABIP6P8TBBQ4RBgAAAB/5qgtFBLMygAAAABJRU5ErkJggg==) **Ingeniería de Software** (4to semestre)
-- ![Alura](https://img.shields.io/badge/Alura-00C4A0?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAB5CAIAAAAiF8huAAAAWElEQVRIDbXBAQEAAAABIP6P8TBBQ4RBgAAAB/5qgtFBLMygAAAABJRU5ErkJggg==) **Cursos de desarrollo de software y tecnología.**
+- ![SENATI](https://img.shields.io/badge/SENATI-00BFFF?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAcCAIAAADnKzRfAAAAxElEQVRIDbWBAQEAAAABIP6P8TBBQ4RBgAAAB/5qgtFBLMygAAAABJRU5ErkJggg==) **Ingeniería de Software**
+- [![Alura](https://img.shields.io/badge/Alura-001332?logo=alura-white&logoColor=fff)](#) **Cursos de habilidades blandas y desarrollo web - BackEnd.**
 
-- *(Agrega aquí cualquier otra institución o curso que desees mencionar)*
+- [![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](#) **Cursos de desarrollo de software y tecnología.**
+
+- [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#) **Cursos de desarrollo web y ciencia de datos.**
+
+- [![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff)](#) **Aprendizaje de desarrollo web - Documentación.**
+
+- [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)  **Aprendizaje de desarrollo web, diseño UI/UX, desarrollo de aplicaciones escritorio.**
 
 ---
 
-## 🧠 Tecnologías y herramientas
+## 🛠️ Tecnologías y herramientas
 
 ### 🌐 Frontend
 
@@ -82,6 +88,18 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=white) 
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) 
 ![Acrobat](https://img.shields.io/badge/Acrobat-EC1C24?logo=adobeacrobatreader&logoColor=white) 
+
+---
+
+## 🟢 Otras tecnologías
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) 
+![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white) 
+![Chocolatey](https://img.shields.io/badge/Chocolatey-7A3A33?logo=chocolatey&logoColor=white) 
+![pnpm](https://img.shields.io/badge/pnpm-FB7185?logo=pnpm&logoColor=white) 
+![PyPI](https://img.shields.io/badge/PyPI-3776AB?logo=pypi&logoColor=white)
 
 ---
 
