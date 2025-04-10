@@ -72,15 +72,6 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhyanx&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhyanx&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/-bhyanxdev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhyanxdev@gmail.com)
