@@ -1,9 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Bryan Smick Sanchez García</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Desarrollador+de+software+fullstack;Apasionado+por+la+IA+y+el+backend;Creativo+con+apoyo+en+diseño+gráfico" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Desarrollador+de+software+fullstack;Apasionado+por+la+IA+y+el+backend;Creativo+con+apoyo+en+diseño+gráfico" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,6 +49,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23FFB400?logo=python&logoColor=white)
+![Recognize](https://img.shields.io/badge/Recognize-AI-blueviolet)
 
 ---
 
