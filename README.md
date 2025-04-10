@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy Bryan Smick Sanchez García</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Desarrollador+de+software+fullstack;Apasionado+por+la+IA+y+el+backend;Creativo+con+apoyo+en+diseño+gráfico" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Desarrollador+de+software;Apasionado+por+el+desarrollo+web,+desktop,+android" alt="Typing SVG" />
 </p>
 
 ---
