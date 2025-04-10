@@ -18,7 +18,7 @@
 ## 🎓 Educación
 
 - ![SENATI](https://img.shields.io/badge/SENATI-00BFFF?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAcCAIAAADnKzRfAAAAxElEQVRIDbWBAQEAAAABIP6P8TBBQ4RBgAAAB/5qgtFBLMygAAAABJRU5ErkJggg==) **Ingeniería de Software**
-- [![Alura](https://img.shields.io/badge/Alura-001332?logo=alura-white&logoColor=fff)](#) **Cursos de habilidades blandas y desarrollo web - BackEnd.**
+- [![Alura](https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff)](#) **Cursos de habilidades blandas y desarrollo web - BackEnd.**
 
 - [![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](#) **Cursos de desarrollo de software y tecnología.**
 
