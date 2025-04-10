@@ -10,7 +10,7 @@
 
 - 🎓 Estudiante de **Ingeniería de Software** en SENATI (4to semestre)
 - 💡 Apasionado por la inteligencia artificial, el desarrollo backend y el software multiplataforma
-- 🎨 Me apoyo del diseño gráfico para mejorar la experiencia visual de mis proyectos
+- 🎨 Con habilidades en diseño gráfico y prototipado profesional
 - ⚡ Siempre aprendiendo, creando e implementando nuevas soluciones
 
 ---
