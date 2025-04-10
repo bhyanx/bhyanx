@@ -49,6 +49,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23FFB400?logo=python&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 ![Recognize](https://img.shields.io/badge/Recognize-AI-blueviolet)
 
 ---
