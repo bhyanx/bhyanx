@@ -17,11 +17,8 @@
 
 ## 🎓 Educación
 
-- **SENATI**  
-  Ingeniería de Software (4to semestre)
-
-- **Alura**  
-  Cursos de desarrollo de software, programación y tecnología.
+- ![SENATI](https://img.shields.io/badge/SENATI-00BFFF?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAcCAIAAADnKzRfAAAAxElEQVRIDbWBAQEAAAABIP6P8TBBQ4RBgAAAB/5qgtFBLMygAAAABJRU5ErkJggg==) **Ingeniería de Software** (4to semestre)
+- ![Alura](https://img.shields.io/badge/Alura-00C4A0?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAB5CAIAAAAiF8huAAAAWElEQVRIDbXBAQEAAAABIP6P8TBBQ4RBgAAAB/5qgtFBLMygAAAABJRU5ErkJggg==) **Cursos de desarrollo de software y tecnología.**
 
 - *(Agrega aquí cualquier otra institución o curso que desees mencionar)*
 
