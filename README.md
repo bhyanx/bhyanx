@@ -52,7 +52,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) 
 ![C# .NET](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white) 
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?logo=dotnet&logoColor=white) 
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) 
 
 ---
