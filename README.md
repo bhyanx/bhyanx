@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software** en SENATI (4to semestre)
+- 🎓 Egresado de la carrera **Ingeniería de Software** en SENATI.
 - 💡 Apasionado por la inteligencia artificial, el desarrollo backend y el software multiplataforma
 - 🎨 Con habilidades en diseño gráfico y prototipado profesional
 - ⚡ Siempre aprendiendo, creando e implementando nuevas soluciones
